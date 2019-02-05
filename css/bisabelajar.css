@@ -13,6 +13,13 @@ body{
 .belajar{
     margin-top: 50px;
 }
+.belajar a{
+    color: black;
+}
+.belajar a:hover{
+    display: block;
+    text-decoration: none;
+}
 .single-belajar{
     height: 100px;
     margin-bottom: 30px;
