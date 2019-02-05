@@ -1,0 +1,46 @@
+*,html,body{
+    margin: 0;
+    padding: 0;
+}
+body{
+    height: 3000px;
+}
+.bisa-belajar{
+    width: 100%;
+    height: 400px;
+    background-color: white;
+}
+.belajar{
+    margin-top: 50px;
+}
+.single-belajar{
+    height: 100px;
+    margin-bottom: 30px;
+}
+.belajar-icon{
+    background-color: grey;
+    width: 70px;
+    height: 70px;
+    margin-right: 5px;
+}
+.belajar-icon img{
+    width: 50px;
+    height: 50px;
+    margin: 15%;
+}
+.belajar-details{
+    margin-left: 15px;
+}
+
+.bisa-gambar{
+    background-image: url(../img/school.svg);
+    height: 100%;
+    width: 300px;
+    margin-top: 10px;
+
+
+}
+
+@media (min-width: 992px) { 
+    
+}
