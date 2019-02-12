@@ -78,10 +78,18 @@ header{
 /* statistik */
 .statistik{
     background-color: #96DCF7;
-    height: 250px;
+    height: 200px;
 }
 .statistik h3{
-    margin-top: 50px;
+    margin-top: 25px;
+    font-size: 20px;
+    text-align: center;
+}
+.statistik p{
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
 }
 
 /* penerima beasiswa */
