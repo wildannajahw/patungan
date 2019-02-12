@@ -94,8 +94,10 @@ header{
 
 /* penerima beasiswa */
 .owl-carousel{
-    background-color: #4BC1DD;
+    background-color: white;
+    height: 250px;
 }
+
 
 /* footer */
 footer{
