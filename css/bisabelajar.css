@@ -75,6 +75,14 @@ header{
 
 
 }
+/* statistik */
+.statistik{
+    background-color: #96DCF7;
+    height: 250px;
+}
+.statistik h3{
+    margin-top: 50px;
+}
 
 /* penerima beasiswa */
 .owl-carousel{
