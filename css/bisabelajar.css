@@ -3,7 +3,7 @@
     padding: 0;
 }
 body{
-    height: 3000px;
+    height: relative;
 }
 /* Navbar */
 header{
@@ -97,6 +97,33 @@ header{
     background-color: #4BC1DD;
 }
 
+/* footer */
+footer{
+    padding: 50px;
+    background-color: #5aac78;
+    color: beige;
+}
+.ulfoot{
+    border: 20px;
+}
+.ulfoot li{
+    list-style: none;
+}
+footer img{
+    margin: 10px;
+    width: 30px;
+    height: 30px;
+}
+#judul{
+    font-size: 70%;
+    color: black;
+}
+.anotherevent h2{
+    color: white;
+    padding: 50px 0;
+    font-size: 35px;
+    text-align: center;
+}
 @media (max-width: 767.98px) { 
     header{
         position: relative;
